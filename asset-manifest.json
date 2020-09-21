@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chart_sankey/static/css/main.0070c72c.chunk.css",
+    "main.js": "/chart_sankey/static/js/main.b40bd143.chunk.js",
+    "main.js.map": "/chart_sankey/static/js/main.b40bd143.chunk.js.map",
+    "runtime-main.js": "/chart_sankey/static/js/runtime-main.85f42f48.js",
+    "runtime-main.js.map": "/chart_sankey/static/js/runtime-main.85f42f48.js.map",
+    "static/css/2.8d4cdce2.chunk.css": "/chart_sankey/static/css/2.8d4cdce2.chunk.css",
+    "static/js/2.4c73f153.chunk.js": "/chart_sankey/static/js/2.4c73f153.chunk.js",
+    "static/js/2.4c73f153.chunk.js.map": "/chart_sankey/static/js/2.4c73f153.chunk.js.map",
+    "index.html": "/chart_sankey/index.html",
+    "precache-manifest.f550a43f8b8d4bfe353dfb422504f21b.js": "/chart_sankey/precache-manifest.f550a43f8b8d4bfe353dfb422504f21b.js",
+    "service-worker.js": "/chart_sankey/service-worker.js",
+    "static/css/2.8d4cdce2.chunk.css.map": "/chart_sankey/static/css/2.8d4cdce2.chunk.css.map",
+    "static/css/main.0070c72c.chunk.css.map": "/chart_sankey/static/css/main.0070c72c.chunk.css.map",
+    "static/js/2.4c73f153.chunk.js.LICENSE.txt": "/chart_sankey/static/js/2.4c73f153.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f42f48.js",
+    "static/css/2.8d4cdce2.chunk.css",
+    "static/js/2.4c73f153.chunk.js",
+    "static/css/main.0070c72c.chunk.css",
+    "static/js/main.b40bd143.chunk.js"
+  ]
+}
